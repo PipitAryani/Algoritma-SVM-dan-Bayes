@@ -1,0 +1,1 @@
+# Algoritma-SVM-dan-Bayes
